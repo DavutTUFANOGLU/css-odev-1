@@ -1,0 +1,28 @@
+body{
+    background-color: #e6e4e4;
+    text-align: center;
+}
+
+header {
+    text-align: center;    
+    color: aqua;
+    font-size: 30px;
+    font-family: 'Bebas Neue', sans-serif;
+    }
+
+footer {
+    text-align: center;    
+    color: gray;
+    font-size: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+    }
+    
+ #project-list
+ {
+    font-size: 20px;
+    color: rgb(80, 3, 3);
+    font-family: 'Oswald', sans-serif; 
+    text-transform: uppercase;
+    text-align: left;
+ }
+
